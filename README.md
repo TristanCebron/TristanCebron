@@ -28,3 +28,8 @@ I like trains 🕳️🚄
 ---
 
 Thanks for visiting! ⭐ Feel free to star any repo you like!
+
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![HTML](https://img.shields.io/badge/HTML5-e34c26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
